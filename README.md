@@ -20,7 +20,7 @@
 Klik tombol di bawah untuk join ke group support kami`
    <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Grup%20Support%3F-King-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-### Repository create by [Apis](https://t.me/PacarFerdilla)
+__Repository create by [Apis](https://t.me/PacarFerdilla)__
 
 ### String Session 🖇
 `
