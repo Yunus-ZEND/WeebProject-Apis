@@ -15,16 +15,16 @@
 
 ![Weeb Project](https://telegra.ph/file/477415d5e5fa928e7f39c.jpg)
 
-### **Weeb Project**
+### Weeb Project
 Repository by [Apis](https://t.me/PacarFerdilla) 
 
-### __Group Support? [Click Here](https://t.me/KingUserbotSupport)__
+### Group Support? [Click Here](https://t.me/KingUserbotSupport)
 © Special credit 
 
-### __Deploy to Heroku__
+### Deploy to Heroku
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/apisuserbot/WeebProject-Apis/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
 
-### __String Session? [Click Here](https://replit.com/@apisuserbot/String-Session?v=1)__
+### String Session? [Click Here](https://replit.com/@apisuserbot/String-Session?v=1)
 Thank you very so musch 🙏
 
 •   [Bian Sepang](https://github.com/BianSepang) - WeebProject
