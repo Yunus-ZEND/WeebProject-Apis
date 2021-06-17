@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/apisuserbot/WeebProject-Apis/blob/WeebProject-Apis/LICENSE"><img src="https://img.shields.io/github/license/apisuserbot/WeebProject-Apis?&style=social&logo=github">
-  </a></p>
-
 ![Repo Size](https://img.shields.io/github/repo-size/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)
 [![GitHub issues](https://img.shields.io/github/issues/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)](https://github.com/apisuserbot/WeebProject-Apis/issues)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/apisuserbot/WeebProject-Apis?&style=plastic&logo=github)](https://github.com/apisuserbot/WeebProject-Apis/graphs/commit-activity)
