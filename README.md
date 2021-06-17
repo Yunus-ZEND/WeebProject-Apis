@@ -15,16 +15,22 @@
 
 ![Weeb Project](https://telegra.ph/file/477415d5e5fa928e7f39c.jpg)
 
-### Weeb Project
-Repository by [Apis](https://t.me/PacarFerdilla) 
+### Group Support 🇮🇩
+`
+Klik tombol di samping untuk join ke group support kami`
+   <a href="https://t.me/KingUserbotSupport"><img src="https://img.shields.io/badge/Grup%20Support%3F-King-red?&style=flat-square?&logo=telegram" width=180px></a></p>
 
-### Group Support? [Click Here](https://t.me/KingUserbotSupport)
-© Special credit 
+### Repository create by [Apis](https://t.me/PacarFerdilla)
+
+### String Session 🖇
+`
+Klik tombol di samping untuk membuat string milikmu`
+   [![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@apisuserbot/String-Session?v=1)
 
 ### Deploy to Heroku
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/apisuserbot/WeebProject-Apis/tree/main"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
 
-### String Session? [Click Here](https://replit.com/@apisuserbot/String-Session?v=1)
-Thank you very so musch 🙏
+© Special credit
+Thank you very so much 🙏
 
 •   [Bian Sepang](https://github.com/BianSepang) - WeebProject
