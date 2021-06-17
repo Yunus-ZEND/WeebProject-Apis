@@ -10,7 +10,7 @@
 </p>
 <p align="justify">
 <a href="https://pypi.org/project/Telethon/"><img src="https://img.shields.io/pypi/v/telethon?color=important&label=telethon&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
-<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.4-white?style=for-the-badge&logo=appveyor"/>
+<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.9.2-white?style=for-the-badge&logo=appveyor"/>
 </p>
 
 ![Weeb Project](https://telegra.ph/file/477415d5e5fa928e7f39c.jpg)
